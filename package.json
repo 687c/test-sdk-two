@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@coral-xyz/anchor": "^0.29.0",
+		"@jimii/soundwork-sdk": "^0.0.9",
+		"@solana/web3.js": "^1.87.6",
+		"streamnfttech_sol_test": "link:/home/jimii/Documents/crew/streamnft-sdk"
+	}
+}
